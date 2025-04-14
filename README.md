@@ -22,3 +22,4 @@ In this project, we build a Python-based monitoring app, containerize it with Do
   ✅ Docker installed
   ✅ kubectl installed
   ✅ A code editor (we use VS Code)
+🖥️Project demo video link: https://drive.google.com/file/d/1DcqvheagIXLpLUe7Qtp6ueXvTyeUBZdp/view?usp=sharing
